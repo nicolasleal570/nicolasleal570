@@ -4,7 +4,7 @@
   <a href="https://app.daily.dev/nicolasleal570">
     <img
       align="right"
-      src="https://api.daily.dev/devcards/a930e0e215ab4e7e9af730755c52e7c4.png?r=goj" 
+      src="https://github.com/nicolasleal570/nicolasleal570/blob/master/devcard.svg" 
       width="256"   
       alt="Nicolas Leal's Dev Card"
     />
