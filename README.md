@@ -1,5 +1,16 @@
 # Hello 👋🏼👨🏻‍💻
 
+<div align="left">
+  <a href="https://app.daily.dev/nicolasleal570">
+    <img
+      align="right"
+      src="https://api.daily.dev/devcards/a930e0e215ab4e7e9af730755c52e7c4.png?r=goj" 
+      width="256"   
+      alt="Nicolas Leal's Dev Card"
+    />
+  </a>
+</div>
+
 Hi, I'm Nicolás! A Software Engineer based in Venezuela. I have more than 4 years of experience working as a Front-End developer, but also I worked as Back-End creating RESTful APIs and deployments in the cloud.
 
 # About me
