@@ -20,6 +20,3 @@ I came to alive old died projects using modern technologies and services. I have
 - Teaching in public at <a href="https://nicolas-leal.com/">My personal blog</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/nicolasleal570/?locale=en_US">LinkedIn</a> 💼
 - My profile at <a href="https://platzi.com/p/nicolasleal570/">Platzi.com</a> 📚
-
----
-⭐️ From [Nicolás Leal](https://github.com/nicolasleal570)
